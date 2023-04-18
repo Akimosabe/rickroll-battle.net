@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rickroll_battle.net:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rickroll_battle_net_jar</output-path>
+    <root id="archive" name="rickroll_battle.net.jar">
+      <element id="module-output" name="rickroll_battle.net" />
+    </root>
+  </artifact>
+</component>
